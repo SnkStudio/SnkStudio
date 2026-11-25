@@ -72,9 +72,10 @@ Clans complets : banque, coffre, territoire, vol, alliances, guerres et missions
 <h3>📦 <a href="https://github.com/SnkStudio/SnkBoutiques">SnkBoutiques</a></h3>
 Les joueurs ouvrent leurs boutiques avec de vrais coffres, dans le territoire de leur clan.
 </td>
-<td width="50%" valign="middle" align="center">
-<h3>🎖️ SnkPass</h3>
-<b>Bientôt</b><br>Un pass de saison : missions, 50 paliers, récompenses et cosmétiques.
+<td width="50%" valign="top">
+<a href="https://github.com/SnkStudio/SnkPass"><img src="https://raw.githubusercontent.com/SnkStudio/SnkPass/main/images/banniere.png" width="100%" alt="SnkPass"></a>
+<h3>🎖️ <a href="https://github.com/SnkStudio/SnkPass">SnkPass</a></h3>
+Un pass de saison : missions, 50 paliers, récompenses et cosmétiques.
 </td>
 </tr>
 </table>
