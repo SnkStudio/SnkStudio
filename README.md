@@ -79,10 +79,15 @@ Un pass de saison : missions, 50 paliers, récompenses et cosmétiques.
 </td>
 </tr>
 <tr>
-<td colspan="2" align="center" valign="top">
-<a href="https://github.com/SnkStudio/SnkCosmetiques"><img src="https://raw.githubusercontent.com/SnkStudio/SnkCosmetiques/main/images/banniere.png" width="60%" alt="SnkCosmetiques"></a>
+<td width="50%" valign="top">
+<a href="https://github.com/SnkStudio/SnkCosmetiques"><img src="https://raw.githubusercontent.com/SnkStudio/SnkCosmetiques/main/images/banniere.png" width="100%" alt="SnkCosmetiques"></a>
 <h3>🎩 <a href="https://github.com/SnkStudio/SnkCosmetiques">SnkCosmetiques</a></h3>
 35 cosmétiques 3D : chapeaux, masques, ailes, compagnons et ballons, sans rien dans l'inventaire.
+</td>
+<td width="50%" valign="top">
+<a href="https://github.com/SnkStudio/SnkInterface"><img src="https://raw.githubusercontent.com/SnkStudio/SnkInterface/main/images/banniere.png" width="100%" alt="SnkInterface"></a>
+<h3>🖥️ <a href="https://github.com/SnkStudio/SnkInterface">SnkInterface</a></h3>
+Chat, TAB, tableau, hologrammes et menus, avec les grades de LuckPerms.
 </td>
 </tr>
 </table>
