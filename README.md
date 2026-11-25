@@ -90,6 +90,13 @@ Un pass de saison : missions, 50 paliers, récompenses et cosmétiques.
 Chat, TAB, tableau, hologrammes et menus, avec les grades de LuckPerms.
 </td>
 </tr>
+<tr>
+<td colspan="2" align="center" valign="top">
+<a href="https://github.com/SnkStudio/SnkPNJ"><img src="https://raw.githubusercontent.com/SnkStudio/SnkPNJ/main/images/banniere.png" width="60%" alt="SnkPNJ"></a>
+<h3>🧍 <a href="https://github.com/SnkStudio/SnkPNJ">SnkPNJ</a></h3>
+Des personnages avec skins, dialogues dessinés, trajets et actions. <sub>(Paper 1.21.9 ou plus)</sub>
+</td>
+</tr>
 </table>
 
 <br>
