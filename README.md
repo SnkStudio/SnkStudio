@@ -102,6 +102,13 @@ Des personnages avec skins, dialogues dessinés, trajets et actions. <sub>(Paper
 Défis, quêtes de personnages, grande histoire, combats et éditeur en jeu.
 </td>
 </tr>
+<tr>
+<td colspan="2" align="center" valign="top">
+<a href="https://github.com/SnkStudio/SnkMeubles"><img src="https://raw.githubusercontent.com/SnkStudio/SnkMeubles/main/images/banniere.png" width="60%" alt="SnkMeubles"></a>
+<h3>🛋️ <a href="https://github.com/SnkStudio/SnkMeubles">SnkMeubles</a></h3>
+81 meubles en 3D à acheter, poser et utiliser, avec leur boutique dessinée.
+</td>
+</tr>
 </table>
 
 <br>
